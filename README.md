@@ -11,3 +11,10 @@ and if you have any issues with it, such as missing modules
 just do (pip install (missing module)) 
 
 If you have any more issues, just post them in issues
+
+
+
+Requirements:
+- Python 3.9+
+- PySide6 (`pip install PySide6`)
+- JDK (javac, javap, jar on PATH)
