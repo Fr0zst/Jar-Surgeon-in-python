@@ -1,3 +1,5 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
 #!/usr/bin/env python3
 """
 Jar Surgeon — drag-and-drop JAR editor/decompiler/rebuilder with auto-recompile, search, and replace
